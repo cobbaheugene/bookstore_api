@@ -36,5 +36,7 @@ installed apps, register;
 - Level 4 ViewSets (most concise)
 
 # URLs & Routers 
+- Manual URL wiring (for APIView and generics)
+- Router (for ViewSets)
 
 
